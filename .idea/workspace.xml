@@ -4,31 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fc42838-7f64-4201-9ba7-cab3fab1ae3d" name="Changes" comment="Second commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/com/example/javafx/ComponentesMaquina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/com/example/javafx/EstacionesDeTrabajo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/com/example/javafx/LineaDeEnsamblaje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/com/example/javafx/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/com/example/javafx/Simulacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/com/example/javafx/SimulacionGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="2fc42838-7f64-4201-9ba7-cab3fab1ae3d" name="Changes" comment="fourth commit">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ComponentesMaquina.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/EstacionesDeTrabajo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LineaDeEnsamblaje.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Simulacion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SimulacionGUI.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/javafx" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,7 +46,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/Ordenador/OneDrive/Escritorio/javafx-sdk-21/lib",
+    "last_opened_file_path": "C:/Users/Ordenador/OneDrive/Escritorio/Programación concurrente/OperacionGalton",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -94,7 +72,8 @@
       <updated>1697448267996</updated>
       <workItem from="1697448269177" duration="2476000" />
       <workItem from="1697450759304" duration="3093000" />
-      <workItem from="1697453862424" duration="1392000" />
+      <workItem from="1697453862424" duration="1748000" />
+      <workItem from="1697455622545" duration="36000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1697448326590</created>
@@ -110,16 +89,43 @@
       <option name="project" value="LOCAL" />
       <updated>1697452386895</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="thrid commit">
+      <created>1697455289210</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697455289210</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fourth commit">
+      <created>1697455455579</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697455455579</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
+    <MESSAGE value="thrid commit" />
+    <MESSAGE value="fourth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fourth commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/OperacionGalton$SimulacionGUI.ic" NAME="SimulacionGUI Coverage Results" MODIFIED="1697454773461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
