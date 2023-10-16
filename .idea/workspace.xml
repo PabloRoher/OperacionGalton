@@ -4,14 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fc42838-7f64-4201-9ba7-cab3fab1ae3d" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ComponentesMaquina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EstacionesDeTrabajo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LineaDeEnsamblaje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Simulacion.java" afterDir="false" />
+    <list default="true" id="2fc42838-7f64-4201-9ba7-cab3fab1ae3d" name="Changes" comment="Second commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/com/example/javafx/ComponentesMaquina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/com/example/javafx/EstacionesDeTrabajo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/com/example/javafx/LineaDeEnsamblaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/com/example/javafx/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/com/example/javafx/Simulacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/com/example/javafx/SimulacionGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ComponentesMaquina.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/EstacionesDeTrabajo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LineaDeEnsamblaje.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Simulacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SimulacionGUI.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +43,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/javafx" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,14 +67,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Ordenador/OneDrive/Escritorio/Programación concurrente/OperacionGalton",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/Ordenador/OneDrive/Escritorio/javafx-sdk-21/lib",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.javafx" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,7 +93,8 @@
       <option name="presentableId" value="Default" />
       <updated>1697448267996</updated>
       <workItem from="1697448269177" duration="2476000" />
-      <workItem from="1697450759304" duration="1579000" />
+      <workItem from="1697450759304" duration="3093000" />
+      <workItem from="1697453862424" duration="1392000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1697448326590</created>
@@ -76,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697448326590</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit">
+      <created>1697452386895</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697452386895</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +118,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OperacionGalton$SimulacionGUI.ic" NAME="SimulacionGUI Coverage Results" MODIFIED="1697454773461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.javafx.*</FILTER>
+    </SUITE>
   </component>
 </project>
